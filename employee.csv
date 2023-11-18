@@ -1,0 +1,13 @@
+cid,age,salary,performance
+1,25, 10k, poor
+2,27, 15k, poor
+3,27, 17k, poor
+4,28, 17k, poor
+5,29, 20k, avg
+6,30, 25k, avg
+7,29, 25k, avg
+8,30, 20k, avg
+9,35, 32k, good
+10,48, 34k, good
+11,48, 32k, good
+
